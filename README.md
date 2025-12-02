@@ -87,12 +87,6 @@ GPA:3.07
 
 ---
 
-## ☕ Fun Fact
-I want to build a **kopitiam-style coffee shop** someday—where anyone, from any background, can feel welcome.  
-Just like my approach to data: **warm, open, and meaningful.**
-
----
-
 ## ⭐ Thanks for Visiting!
 Thank you for stopping by!  
 I'm always open to learning, collaborating, and growing in the world of data.  

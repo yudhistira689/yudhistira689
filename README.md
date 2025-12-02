@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Yudhis — Aspiring Data Analyst / Data Scientist</h1>
+<h1 align="center">👋 Hi, I'm Yudhis — Data Analyst / Data Scientist</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Data%20Science-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Growth%20&%20Consistency-success?style=for-the-badge" />
 </p>

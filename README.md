@@ -8,13 +8,23 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 Hello and welcome!
 
-I’m **Yudhis**, an aspiring Data Analyst and Data Scientist driven by curiosity and the desire to build a better future for myself and my family.  
-After years of uncertainty, I chose to grow through continuous learning—believing that **data can open new opportunities** and change lives.
+Hi! I’m **Yudhis**, an aspiring **Data Analyst / Data Scientist** who loves learning and turning data into clear, meaningful insights. After completing a data bootcamp and earning my degree in **Informatics Engineering**, I’m now focused on building a strong career in the data field.
 
-I see data not just as numbers, but as **stories that guide smarter decisions**.  
-Alongside my journey in data, I also dream of creating a **kopitiam-style coffee shop**, a place built on sincerity, hard work, and togetherness.
+I enjoy exploring data, cleaning it, visualizing it, and uncovering stories that help people make smarter decisions. I’m a fast learner, detail-oriented, and always excited to grow through real projects.
+
+Outside of data, I dream of building a warm, kopitiam-style coffee shop—carrying the same values I bring to work: sincerity, consistency, and hard work.
+
+Always open to opportunities and collaboration. 🚀
+
+---
+
+## 🚀 About Me
+
+- **🌱 Currently Learning**: Beginner Machine Learning, SQL optimization, and data engineering practices like Airflow & pipeline automation.
+- **🔍 Collaboration Interests**: Open to collaboration on data analysis projects, dashboarding, machine learning, model deployment, or modern AI exploration such as NLP & LLM.
+- **🌐 Background Insight**: My diverse experience helps me understand problems from both a technical and human perspective. I believe every piece of data has a story and my job is to make it understandable and useful for business decisions..
 
 ---
 
@@ -55,14 +65,13 @@ Alongside my journey in data, I also dream of creating a **kopitiam-style coffee
 ---
 
 ## 🎓 Education
-**Data Analyst / Data Science Learning Path**  
-- Data wrangling  
-- Data visualization  
-- Python basics  
-- SQL basics  
-- Exploratory Data Analysis  
-- Intro to machine learning  
-- Statistics foundations  
+- **Hacktiv8 Data Science Bootcamp**
+Data Analyst / Data Science Learning Path
+*Core Skills Developed:* Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering
+
+- **Gunadarma University**
+Bachelor’s Degree Teknik Informatika (S1)
+GPA:3.07  
 
 ---
 

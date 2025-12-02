@@ -68,7 +68,7 @@ Alongside my journey in data, I also dream of creating a **kopitiam-style coffee
 
 ## 📫 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/yudhistira-pandu-734079295">
+  <a href="https://www.linkedin.com/in/yudhistira-pandu-734079295/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yudhistirapandu689@gmail.com">
